@@ -1,0 +1,2 @@
+1. let planetEarth;
+2. let currentUser;

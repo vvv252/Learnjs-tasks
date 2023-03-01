@@ -1,0 +1,7 @@
+let name = "Ilya";
+
+alert( `hello ${1}` ); // hello 1
+
+alert( `hello ${"name"}` ); // hello name (так как здесь name -- строка)
+
+alert( `hello ${name}` ); // hello Ilya (так как здесь name -- переменная)
