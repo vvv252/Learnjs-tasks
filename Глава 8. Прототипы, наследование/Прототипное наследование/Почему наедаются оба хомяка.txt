@@ -1,0 +1,12 @@
+В программе у хомяков один живот на двоих.
+Это можно исправить, добавив stomach: [] для каждого хомяка:
+
+let speedy = {
+  __proto__: hamster,
+  stomach: []
+};
+
+let lazy = {
+  __proto__: hamster,
+  stomach: []
+};

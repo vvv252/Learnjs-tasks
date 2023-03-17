@@ -1,0 +1,5 @@
+Будет работать.
+
+alert( counter.up() ); // 1
+alert( counter.up() ); // 2
+alert( counter.down() ); // 1
